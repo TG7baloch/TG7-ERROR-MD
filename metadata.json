@@ -1,0 +1,8 @@
+{
+  "name": "TG7 ERROR MD Bot 24/7 WhatsApp Supervisor",
+  "description": "TG7 ERROR MD WhatsApp Assistant with ultra-fast sub-second responses, natural Text-to-Speech voice notes, official channel integration, 2,670+ commands, and anti-delete protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

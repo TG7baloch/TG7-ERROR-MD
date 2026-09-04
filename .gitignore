@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.local
+
+# Node modules
+node_modules/
+
+# Build artifacts
+dist/
+
+# Session and temporary stores
+bot_session/
+session_backup/
+session_slots/
+bot_vault/
+custom_bot/
+*.log
